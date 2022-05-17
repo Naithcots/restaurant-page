@@ -1,0 +1,25 @@
+{
+  "name": "restaurant-page",
+  "description": "The Odin Project Restaurant Page with tabbed content",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "scripts": {
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naithcots/restaurant-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naithcots/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/Naithcots/restaurant-page#readme"
+}
