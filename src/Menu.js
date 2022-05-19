@@ -5,7 +5,12 @@ const menuItemArr = [
   {
     name: "Margherita",
     ingredients: ["cheese", "tomato sauce"],
-    src: `/dist/assets/ivan-torres-MQUqbmszGGM-unsplash.jpg`,
+    src: `./assets/ivan-torres-MQUqbmszGGM-unsplash.jpg`,
+  },
+  {
+    name: "Salami",
+    ingredients: ["cheese", "salami", "tomato sauce"],
+    src: "./assets/alan-hardman-SU1LFoeEUkk-unsplash.jpg",
   },
 ];
 
